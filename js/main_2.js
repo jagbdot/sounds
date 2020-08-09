@@ -150,7 +150,7 @@
 		audio = {
 			sounds : {},
 			sources : [{
-				lake : 'sounds/Ocean_Waves-Mike_Koenig-980635527.mp3',
+				lake : 'sounds/personastrabajandosal.mp3',
 				splash : 'sounds/Water Splash-SoundBible.com-800223477.mp3',
 				underwater : 'sounds/96742__robinhood76__01650-underwater-bubbles.mp3'
 			}],

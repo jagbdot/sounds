@@ -142,7 +142,7 @@
 		audio = {
 			sounds : {},
 			sources : [{
-				lake : 'sounds/Whales Spouting Out Water-SoundBible.com-966355632.mp3',
+				lake : 'sounds/plazacivica.mp3',
 				splash : 'sounds/Depth Charge 2-SoundBible.com-338644910.mp3',
 				splash2 : 'sounds/Water Splash-SoundBible.com-800223477.mp3',
 				underwater : 'sounds/156011__hdvideoguy__scubadiving-01.mp3'

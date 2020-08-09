@@ -142,7 +142,7 @@
 		audio = {
 			sounds : {},
 			sources : [{
-				lake : 'sounds/quietlake070808.mp3',
+				lake : 'sounds/aguasaladafluyendo.mp3',
 				splash : 'sounds/Water Splash-SoundBible.com-800223477.mp3',
 				underwater : 'sounds/Underwater_Pool-Mike_Koenig-355864284.mp3'
 			}],
